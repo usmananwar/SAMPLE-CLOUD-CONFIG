@@ -1,2 +1,6 @@
 common:
   sample_key: common_sample_key_git_value
+  
+  
+cookie:
+  domain: commmmmmmmmmon

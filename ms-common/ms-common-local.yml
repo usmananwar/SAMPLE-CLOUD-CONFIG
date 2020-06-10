@@ -2,6 +2,7 @@ spring:
   cloud:
     config:      
       overrideNone: true
+      overrideSystemProperties: false
 
 common:
   sample_key: common_sample_key_git_value
